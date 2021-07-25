@@ -1,6 +1,6 @@
 __Thay 1 = "-", thay 0 = "."__
 
-  ![image](https://user-images.githubusercontent.com/86923385/126905677-9ed08fb9-27ec-448f-b2e2-57fe03d949e5.png)
+    ![image](https://user-images.githubusercontent.com/86923385/126905677-9ed08fb9-27ec-448f-b2e2-57fe03d949e5.png)
 
 __Vào kt.gy__
 
